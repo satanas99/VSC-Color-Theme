@@ -1,0 +1,21 @@
+{
+    "name": "satanas",
+    "displayName": "Satanas",
+    "description": "Theme Perso",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Satanas Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Satanas Theme-color-theme.json"
+            }
+        ]
+    }
+}
